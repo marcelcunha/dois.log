@@ -1,0 +1,21 @@
+{
+    "name": "dois/log",
+    "require": {
+        "spatie/laravel-activitylog": "^3.7"
+    },
+    "authors": [
+        {
+            "name": "Marcel Cunha",
+            "email": "marcel.cunha.mc@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dois\\Log\\": "src"
+        }
+    },
+    "repositories":[ {
+        "type": "vcs",
+        "url": "git@github.com:marcelcunha/dois.log.git"
+    }]
+}
