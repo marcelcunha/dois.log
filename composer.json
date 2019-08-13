@@ -13,9 +13,5 @@
         "psr-4": {
             "Dois\\Log\\": "src"
         }
-    },
-    "repositories":[ {
-        "type": "vcs",
-        "url": "git@github.com:marcelcunha/dois.log.git"
-    }]
+    }
 }
