@@ -13,5 +13,13 @@
         "psr-4": {
             "Dois\\Log\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dois\\Log\\Providers\\LogServiceProvider",
+                "Dois\\Log\\Providers\\EventServiceProvider"
+            ]
+        }
     }
 }
