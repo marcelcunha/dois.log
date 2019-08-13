@@ -4,7 +4,7 @@ namespace Dois\Log\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
-class LogServicePrivider extends ServiceProvider
+class LogServiceProvider extends ServiceProvider
 {
     /**
      * Register services.
